@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Google Colab specific
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.venv/
+ENV/
+env.bak/
+venv/
+
+# Dataset files
+*.csv
+*.xlsx
+*.json
+/data/
