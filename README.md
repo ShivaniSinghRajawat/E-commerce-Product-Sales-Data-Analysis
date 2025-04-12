@@ -16,3 +16,5 @@ ETL and EDA project using Python & Google Colab.
 - `/etl`: Data cleaning
 - `/eda`: Visualizations
 - `/data`: Raw and cleaned data
+## Dataset taken from Kaggle link
+- https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset
